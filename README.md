@@ -1,7 +1,7 @@
 # Video Game Library Database
 
-## Overview
-This project involves designing and implementing a relational database to manage a video game library. The database contains several tables, including Player, Game Series, and Tournament, and supports complex data modeling through relationships. A PHP web interface connects to the Oracle database, allowing users to interact with the data by adding, updating, or removing entries in real-time.
+## Overview and Context
+This project involves designing and implementing a relational database to manage a video game library. The database contains several tables, including Player, Game Series, and Tournament, and supports complex data modeling through relationships. A PHP web interface connects to the Oracle database, allowing users to interact with the data by adding, updating, or removing entries in real-time. Note : This project requires an OracleSQL license to run.
 
 ## Features
 
