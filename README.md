@@ -1,2 +1,2 @@
-# project_a0z2r_j4c7k_x0p5w
+# Video Game Library Database Management System
 No extra information
